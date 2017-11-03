@@ -1,0 +1,6 @@
+framework module Pods_BaranKSUITests {
+  umbrella header "Pods-BaranKSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
